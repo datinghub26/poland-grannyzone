@@ -1,13 +1,17 @@
+// script.js
+
 const smartLink = "https://safeoffers.pro/a/ERqB9fpAmVFZykG";
 
-const button = document.getElementById("joinBtn");
+const joinBtn = document.getElementById("joinBtn");
 
-button.addEventListener("click", () => {
+joinBtn.addEventListener("click", () => {
 
-  button.innerHTML = "ŁADOWANIE...";
+  joinBtn.innerHTML = "ŁADOWANIE...";
 
   setTimeout(() => {
+
     window.location.href = smartLink;
+
   }, 1200);
 
 });
