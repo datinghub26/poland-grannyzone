@@ -1,6 +1,6 @@
 // script.js
 
-const smartLink = "https://safeoffers.pro/a/ERqB9fpAmVFZykG";
+const smartLink = "https://safeoffers.pro/a/ERo4xUpAmVFZyXy";
 
 const joinBtn = document.getElementById("joinBtn");
 
